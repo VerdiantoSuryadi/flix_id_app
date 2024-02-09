@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660902338414",
+    "project_id": "flix-id-project",
+    "storage_bucket": "flix-id-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660902338414:android:a8e1621f3171da77d92b7f",
+        "android_client_info": {
+          "package_name": "com.antos.flix_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuym4LAGH5032Vgk3yKebyosCoT6EHCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

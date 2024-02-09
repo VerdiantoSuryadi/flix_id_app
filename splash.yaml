@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#1F1D2B"
+  color_dark: "#1F1D2B"
+  image: assets/flix_logo_splash.png
+  image_dark: assets/flix_logo_splash.png
+  fullscreen: true
+  android_12:
+    color: "#1F1D2B"
+    color_dark: "#1F1D2B"
+    image: assets/flix_logo_splash.png
+    image_dark: assets/flix_logo_splash.png
+  web: false
